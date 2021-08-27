@@ -1,0 +1,1 @@
+Contests include ICPC, LSAC HackItAll, FMINoStress 2020
