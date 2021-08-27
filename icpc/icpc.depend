@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1607771504 source:f:\matei\programare\contest\icpc\main.cpp
+	<iostream>
+	<algorithm>
+	<iostream>
+	<cstring>
+	<string>
+	<cstdlib>
+

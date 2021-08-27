@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1607179690 source:f:\matei\programare\contest\hackitallproba\main.cpp
+	<iostream>
+	<algorithm>
+
